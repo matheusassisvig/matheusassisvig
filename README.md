@@ -5,7 +5,9 @@ Atualmente focado em HTML, CSS e começando em JAVASCRIPT.
 Sempre buscando melhorar minhas habilidades e contribuir para projetos que façam a diferença.
 
 🔹 Aprendendo constantemente sobre boas práticas de código e desenvolvimento ágil.
+<br>
 🔹 Interesses em desenvolvimento web, APIs e automação.
+<br>
 🔹 Aberto a colaborar em projetos open source e desafios que me façam evoluir.
 
 📚 Sempre em evolução | 🌍 Construindo um portfólio sólido
