@@ -1,16 +1,16 @@
-## Hi there 👋
+Eu sou o Matheus Assis 🚀 Desenvolvedor Júnior | 💻 Entusiasta de Tecnologia
 
-<!--
-**matheusassisvig/matheusassisvig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apaixonado por aprender e criar soluções através da programação.
+Atualmente focado em HTML, CSS e começando em JAVASCRIPT. 
+Sempre buscando melhorar minhas habilidades e contribuir para projetos que façam a diferença.
 
-Here are some ideas to get you started:
+🔹 Aprendendo constantemente sobre boas práticas de código e desenvolvimento ágil.
+🔹 Interesses em desenvolvimento web, APIs e automação.
+🔹 Aberto a colaborar em projetos open source e desafios que me façam evoluir.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Sempre em evolução | 🌍 Construindo um portfólio sólido
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusassisvig)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusassisvig)](https://github.com/anuraghazra/github-readme-stats)
